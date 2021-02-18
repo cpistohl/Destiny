@@ -719,6 +719,11 @@ dimwishlist:item=3281285075&perks=3436462433,3425386926#notes:*Partial PvE God R
 dimwishlist:item=3281285075&perks=3436462433,3523296417#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Fluted/Small Bore and Tactical/Extended Mag
 dimwishlist:item=3281285075&perks=3436462433,4049631843#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Fluted/Small Bore and Tactical/Extended Mag
 
+//Igneous Hammer
+dimwishlist:item=2351180975&perks=202670084,1885400500,2450788523,3425386926#notes:*PvP Roll* Max Range
+dimwishlist:item=2351180975&perks=3250034553,679225683,247725512,3425386926#notes:*PvP God Roll*
+
+PULSE RIFLES
 //Chattering Bone
 dimwishlist:item=568515759&perks=1840239774,1561002382,1168162263,3425386926
 dimwishlist:item=568515759&perks=1840239774,1561002382,4267945040,3425386926
@@ -761,6 +766,12 @@ dimwishlist:item=2870169846&perks=839105230,1561002382,1168162263,3523296417
 dimwishlist:item=2870169846&perks=1392496348,2420895100,2039302152,3523296417#notes:**Curated Roll**
 dimwishlist:item=2870169846&perks=1168162263,3523296417#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Fluted/Arrowhead and HighCal
 
+//The Messenger
+dimwishlist:item=3658188704&perks=3250034553,1885400500,247725512,3047969693#notes:*PvP God Roll*
+dimwishlist:item=3658188704&perks=3661387068,1561002382,247725512,1015611457#notes:*PvP God Roll*
+dimwishlist:item=3658188704&perks=247725512,3047969693#notes:*Partial PvP God Roll*
+dimwishlist:item=3658188704&perks=247725512,1015611457#notes:*Partial PvP God Roll*
+
 //Sacred Provenance
 dimwishlist:item=2408405461&perks=1840239774,1561002382,247725512,1015611457
 dimwishlist:item=2408405461&perks=1840239774,1561002382,1168162263,1015611457
@@ -785,7 +796,61 @@ dimwishlist:item=2408405461&perks=247725512,1015611457#notes:*Partial PvE God Ro
 dimwishlist:item=2408405461&perks=1168162263,1015611457#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Fluted/Arrowhead/SmallBore and HIghCal/Lightmag
 dimwishlist:item=2408405461&perks=4267945040,1015611457#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Fluted/Arrowhead/SmallBore and HIghCal/Lightmag
 
+//Stars in Shadow
+dimwishlist:item=2050789284&perks=1482024992,106909392,1168162263,2848615171
+dimwishlist:item=2050789284&perks=1482024992,106909392,1168162263,1015611457
+dimwishlist:item=2050789284&perks=1482024992,106909392,2779035018,2848615171
+dimwishlist:item=2050789284&perks=1482024992,106909392,2779035018,1015611457
+dimwishlist:item=2050789284&perks=1482024992,3230963543,1168162263,2848615171
+dimwishlist:item=2050789284&perks=1482024992,3230963543,1168162263,1015611457
+dimwishlist:item=2050789284&perks=1482024992,3230963543,2779035018,2848615171
+dimwishlist:item=2050789284&perks=1482024992,3230963543,2779035018,1015611457
+dimwishlist:item=2050789284&perks=1840239774,106909392,1168162263,2848615171
+dimwishlist:item=2050789284&perks=1840239774,106909392,1168162263,1015611457
+dimwishlist:item=2050789284&perks=1840239774,106909392,2779035018,2848615171
+dimwishlist:item=2050789284&perks=1840239774,106909392,2779035018,1015611457
+dimwishlist:item=2050789284&perks=1840239774,3230963543,1168162263,2848615171
+dimwishlist:item=2050789284&perks=1840239774,3230963543,1168162263,1015611457
+dimwishlist:item=2050789284&perks=1840239774,3230963543,2779035018,2848615171
+dimwishlist:item=2050789284&perks=1840239774,3230963543,2779035018,1015611457
+dimwishlist:item=2050789284&perks=1482024992,1431678320,1168162263,2726471870#notes:**Curated Roll**
+dimwishlist:item=2050789284&perks=1168162263,2848615171#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Fluted/SmallBore/Arrowhead and Tactical Mag/Flared Mag
+dimwishlist:item=2050789284&perks=1168162263,1015611457#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Fluted/SmallBore/Arrowhead and Tactical Mag/Flared Mag
+dimwishlist:item=2050789284&perks=2779035018,2848615171#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Fluted/SmallBore/Arrowhead and Tactical Mag/Flared Mag
+dimwishlist:item=2050789284&perks=2779035018,1015611457#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Fluted/SmallBore/Arrowhead and Tactical Mag/Flared Mag
 
 
+SCOUTS
+//Night Watch
+dimwishlist:item=3504336176&perks=4090651448,106909392,247725512,3038247973
+dimwishlist:item=3504336176&perks=4090651448,106909392,247725512,3425386926
+dimwishlist:item=3504336176&perks=4090651448,106909392,247725512,2458213969
+dimwishlist:item=3504336176&perks=4090651448,106909392,1168162263,3038247973
+dimwishlist:item=3504336176&perks=4090651448,106909392,1168162263,3425386926
+dimwishlist:item=3504336176&perks=4090651448,106909392,1168162263,2458213969
+dimwishlist:item=3504336176&perks=4090651448,106909392,1820235745,3038247973
+dimwishlist:item=3504336176&perks=4090651448,106909392,1820235745,3425386926
+dimwishlist:item=3504336176&perks=4090651448,106909392,1820235745,2458213969
+dimwishlist:item=3504336176&perks=1840239774,106909392,247725512,3038247973
+dimwishlist:item=3504336176&perks=1840239774,106909392,247725512,3425386926
+dimwishlist:item=3504336176&perks=1840239774,106909392,247725512,2458213969
+dimwishlist:item=3504336176&perks=1840239774,106909392,1168162263,3038247973
+dimwishlist:item=3504336176&perks=1840239774,106909392,1168162263,3425386926
+dimwishlist:item=3504336176&perks=1840239774,106909392,1168162263,2458213969
+dimwishlist:item=3504336176&perks=1840239774,106909392,1820235745,3038247973
+dimwishlist:item=3504336176&perks=1840239774,106909392,1820235745,3425386926
+dimwishlist:item=3504336176&perks=1840239774,106909392,1820235745,2458213969
+dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:**Curated Roll**
+dimwishlist:item=3504336176&perks=247725512,3038247973#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Corkscrew/Flutted and Tactical Mag
+dimwishlist:item=3504336176&perks=247725512,3425386926#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Corkscrew/Flutted and Tactical Mag
+dimwishlist:item=3504336176&perks=247725512,2458213969#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Corkscrew/Flutted and Tactical Mag
+dimwishlist:item=3504336176&perks=1168162263,3038247973#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Corkscrew/Flutted and Tactical Mag
+dimwishlist:item=3504336176&perks=1168162263,3425386926#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Corkscrew/Flutted and Tactical Mag
+dimwishlist:item=3504336176&perks=1168162263,2458213969#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Corkscrew/Flutted and Tactical Mag
+dimwishlist:item=3504336176&perks=1820235745,3038247973#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Corkscrew/Flutted and Tactical Mag
+dimwishlist:item=3504336176&perks=1820235745,3425386926#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Corkscrew/Flutted and Tactical Mag
+dimwishlist:item=3504336176&perks=1820235745,2458213969#notes:*Partial PvE God Roll* Preferred 1st and 2nd Perks Corkscrew/Flutted and Tactical Mag
+
+//The Guiding Sight
 
 
